@@ -222,6 +222,7 @@ I believe that **consistent practice and project-based learning** are key to dev
 
 </div>
 
+
 ---
 
 ## 🐍 Contribution Activity
