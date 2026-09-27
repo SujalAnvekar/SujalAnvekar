@@ -206,14 +206,6 @@ I believe that **consistent practice and project-based learning** are key to dev
 
 ## 📈 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SujalAnvekar&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalAnvekar&layout=compact&hide_border=true" height="170"/>
-
-</div>
-
 <br>
 
 <div align="center">
