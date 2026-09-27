@@ -223,15 +223,6 @@ I believe that **consistent practice and project-based learning** are key to dev
 </div>
 
 
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SujalAnvekar/SujalAnvekar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
 
 ---
 
