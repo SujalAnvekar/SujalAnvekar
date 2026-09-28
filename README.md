@@ -275,25 +275,31 @@ Frontend project created to practice web development and interactive UI design.
 
 <div align="center">
 
-📊 **Data Analytics**
+📊 **Building Data Analytics Projects**
+*Turning real-world datasets into meaningful insights*
 
-  •  
+ ⬇️
 
-🗄️ **SQL**
+🐍 **Python & Data Analysis**
+*Cleaning, transforming and analyzing data with Pandas & NumPy*
 
-  •  
+ ⬇️
 
-📈 **Power BI**
+🗄️ **SQL & Database Analysis**
+*Writing analytical queries and extracting business insights*
 
-  •  
+ ⬇️
 
-🐍 **Python**
+📈 **Power BI & Business Intelligence**
+*Creating interactive dashboards, KPIs and data visualizations*
 
-  •  
+ ⬇️
 
-🤖 **AI/ML Exploration**
+🤖 **Exploring AI in Data Analytics**
+*Learning how AI can enhance data analysis and user interaction*
 
 </div>
+
 
 ---
 
