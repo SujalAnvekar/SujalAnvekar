@@ -255,16 +255,6 @@ Frontend project created to practice web development and interactive UI design.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SujalAnvekar&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalAnvekar&layout=compact&hide_border=true" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=SujalAnvekar&hide_border=true"/>
 
 </div>
