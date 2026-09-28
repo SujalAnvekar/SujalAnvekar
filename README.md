@@ -4,17 +4,16 @@
 
 ### BCA Graduate • Aspiring Data Analyst • Data Science Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Python+%7C+Pandas+%7C+NumPy+%F0%9F%90%8D;SQL+%7C+Power+BI+%7C+Excel+%F0%9F%93%8A;Building+Data+Analytics+Projects+%F0%9F%92%BB;Exploring+Data+Science+%26+AI+%F0%9F%A4%96;Turning+Data+into+Meaningful+Insights+%F0%9F%93%88" alt="Typing Animation"/>
+<p>
+  <a href="https://github.com/SujalAnvekar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sujal-anvekar-87206b318/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-<br>
-
-<a href="https://github.com/SujalAnvekar">
-<img src="https://img.shields.io/badge/GitHub-SujalAnvekar-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sujal-anvekar-87206b318/">
-<img src="https://img.shields.io/badge/LinkedIn-Sujal%20Anvekar-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&center=true&vCenter=true&width=800&lines=Python+%7C+Pandas+%7C+NumPy+%F0%9F%90%8D;SQL+%7C+Power+BI+%7C+Excel+%F0%9F%93%8A;Building+Data+Analytics+Projects+%F0%9F%92%BB;Exploring+Data+Science+%26+AI+%F0%9F%A4%96;Turning+Data+into+Insights+%F0%9F%93%88" alt="Typing Animation"/>
 
 </div>
 
@@ -22,25 +21,30 @@
 
 ## 👨‍💻 About Me
 
-🎓 **BCA Graduate** with a strong interest in **Data Analytics, Data Science and Artificial Intelligence**.
+🎓 **BCA Graduate** interested in **Data Analytics, Data Science and Artificial Intelligence**.
 
-🐍 Working with **Python, Pandas and NumPy** for data cleaning, transformation and analysis.
+🐍 I work with **Python, Pandas and NumPy** for data cleaning, transformation and analysis.
 
-📊 Building practical projects using **SQL, Power BI, Excel and Python** to develop real-world data analytics skills.
+📊 I build practical projects using **SQL, Power BI, Excel and Python** to solve data-related problems.
 
-🗄️ Comfortable working with **SQL databases** and performing analytical queries using joins, CTEs, subqueries, aggregations and window functions.
+🗄️ I practice SQL using **joins, CTEs, subqueries, aggregations, window functions and views**.
 
-📈 Interested in transforming raw data into **meaningful insights, dashboards and business-oriented analysis**.
+📈 My main interest is turning raw data into **clear analysis, dashboards and actionable insights**.
 
-🤖 Currently exploring **Artificial Intelligence and Machine Learning** and learning how AI can be integrated into data analytics projects.
+🤖 I'm currently exploring **AI and Machine Learning** and experimenting with their applications in data analytics.
 
-🚀 As a fresher, I focus on **learning, practicing, building projects and continuously improving** my technical skills.
+🚀 As a fresher, I'm focused on **learning → practicing → building → improving**.
 
 ---
 
-## 🧩 Tech Stack
+## 🛠️ Tech Stack
 
-### 🐍 Programming & Data
+<details>
+<summary><b>🐍 Python & Data</b></summary>
+
+<br>
+
+**Python • Pandas • NumPy • EDA • Statistics • Scikit-learn**
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
@@ -49,41 +53,52 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="45"/>
 </p>
 
-**Python • Pandas • NumPy • EDA • Statistics • Scikit-learn**
+</details>
 
----
+<details>
+<summary><b>🗄️ SQL & Databases</b></summary>
 
-### 🗄️ SQL & Databases
+<br>
+
+**SQL • SQL Server • PostgreSQL • MySQL • MongoDB**
+
+**SQL:** Joins • CTEs • Subqueries • Aggregations • Window Functions • Views
 
 <p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
 </p>
 
-**SQL • PostgreSQL • MySQL • SQL Server • MongoDB**
+</details>
 
-**SQL Concepts:**
-Joins • CTEs • Subqueries • Aggregations • Window Functions • Views • Data Analysis
+<details>
+<summary><b>📊 Data Analytics & BI</b></summary>
 
----
-
-### 📊 Data Analytics & Business Intelligence
+<br>
 
 **Power BI • DAX • Power Query • Data Modeling • Excel • Tableau • KPI Analysis • Data Visualization**
 
----
+</details>
 
-### 🤖 AI & Machine Learning
+<details>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+
+<br>
 
 **Artificial Intelligence • Machine Learning • ML Fundamentals • AI Applications**
 
-> 🔍 Currently exploring AI/ML concepts and experimenting with ways to integrate AI into data analytics projects.
+Currently exploring AI/ML concepts and learning how they can be applied to practical data analytics projects.
 
----
+</details>
 
-### 💻 Development & Tools
+<details>
+<summary><b>💻 Development & Tools</b></summary>
+
+<br>
+
+**Git • GitHub • JavaScript • React • Node.js • Express • PHP • HTML • CSS**
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
@@ -94,117 +109,157 @@ Joins • CTEs • Subqueries • Aggregations • Window Functions • Views �
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
 </p>
 
-**Git • GitHub • JavaScript • React • Node.js • Express • PHP • HTML • CSS**
+</details>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 Customer Shopping Behavior Analysis
+<details open>
+<summary><b>📊 Customer Shopping Behavior Analysis</b></summary>
 
-**Tools:** Python • Pandas • SQL Server • Power BI
+<br>
+
+**Python • Pandas • SQL Server • Power BI**
 
 An end-to-end data analytics project focused on understanding customer purchasing behavior.
 
-* 🧹 Cleaned and transformed the dataset using **Python and Pandas**
-* 🗄️ Imported and analyzed data using **SQL Server**
-* 📊 Performed customer, category, location and subscription analysis
+**What I worked on:**
+
+* 🧹 Cleaned and transformed data using **Python & Pandas**
+* 🗄️ Performed analysis using **SQL Server**
 * 👥 Analyzed customer purchasing patterns and segments
+* 📊 Analyzed categories, locations and subscriptions
 * 📈 Built an interactive **Power BI dashboard**
-* 💡 Extracted business-oriented insights from customer data
+* 💡 Extracted business-oriented insights
 
----
+</details>
 
-### 🛒 Blinkit Sales Analysis Dashboard
+<br>
 
-**Tools:** Power BI • DAX • Power Query
+<details>
+<summary><b>🛒 Blinkit Sales Analysis Dashboard</b></summary>
 
-An interactive business intelligence dashboard focused on sales and outlet performance.
+<br>
 
-* 📊 Analyzed outlet types, locations and item categories
-* 💰 Created KPI cards for **Total Sales, Average Sales, Number of Items and Average Rating**
-* 🔎 Added slicers for interactive analysis
-* 🧮 Created DAX measures
-* 🔄 Used Power Query for data transformation
-* 🗂️ Practiced data modeling and dashboard design
+**Power BI • DAX • Power Query**
 
----
+Interactive business intelligence dashboard for analyzing sales and outlet performance.
 
-### 🏥 Hospital Management Data Analysis
+**Highlights:**
 
-**Tools:** PostgreSQL • SQL
+* 📊 Sales and outlet analysis
+* 💰 KPI cards and business metrics
+* 🔎 Interactive slicers
+* 🧮 DAX measures
+* 🔄 Power Query transformations
+* 🗂️ Data modeling
 
-A SQL-based analytical project focused on healthcare management data.
+</details>
 
-* 👨‍⚕️ Analyzed doctors, patients and appointments
-* 💳 Analyzed billing and revenue information
-* 🔗 Used SQL JOINs to combine related datasets
-* 🧩 Practiced CTEs and subqueries
-* 📊 Used aggregate functions for business analysis
-* 🪟 Applied window functions for advanced analysis
+<br>
 
----
+<details>
+<summary><b>🏥 Hospital Management Data Analysis</b></summary>
 
-### 🎬 Movies Display
+<br>
 
-**Tools:** HTML • CSS • JavaScript
+**PostgreSQL • SQL**
 
-A frontend web development project created to practice UI design and JavaScript.
+SQL analytics project focused on healthcare management data.
 
-* 🎬 Built a movie browsing interface
-* 🖥️ Designed a clean and structured layout
-* ⚡ Added interactive frontend functionality
-* 📱 Practiced responsive web development
+**Highlights:**
+
+* 👨‍⚕️ Patient, doctor and appointment analysis
+* 💳 Billing and revenue analysis
+* 🔗 JOIN-based analysis
+* 🧩 CTEs and subqueries
+* 📊 Aggregations
+* 🪟 Window functions
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🎬 Movies Display</b></summary>
+
+<br>
+
+**HTML • CSS • JavaScript**
+
+Frontend project created to practice web development and interactive UI design.
+
+**Highlights:**
+
+* 🎬 Movie browsing interface
+* 🖥️ Structured UI
+* ⚡ Interactive frontend functionality
+* 📱 Responsive design
+
+</details>
 
 ---
 
 ## 🧠 Currently Learning
 
-| Area            | Focus                               |
-| --------------- | ----------------------------------- |
-| 🐍 Python       | Data analysis and automation        |
-| 🐼 Pandas       | Data cleaning and transformation    |
-| 🔢 NumPy        | Numerical analysis                  |
-| 🗄️ SQL         | Advanced analytical queries         |
-| 📊 Power BI     | Dashboards, DAX and data modeling   |
-| 📈 Data Science | Statistics, EDA and visualization   |
-| 🤖 AI/ML        | AI applications and ML fundamentals |
+<div align="center">
+
+| 🧩 Area             | 🎯 Focus                          |
+| :------------------ | :-------------------------------- |
+| 🐍 **Python**       | Data analysis & automation        |
+| 🐼 **Pandas**       | Data cleaning & transformation    |
+| 🔢 **NumPy**        | Numerical analysis                |
+| 🗄️ **SQL**         | Analytical queries                |
+| 📊 **Power BI**     | Dashboards, DAX & modeling        |
+| 📈 **Data Science** | Statistics, EDA & visualization   |
+| 🤖 **AI/ML**        | AI applications & ML fundamentals |
+
+</div>
 
 ---
 
-## 🎯 My Current Journey
+## 🔄 My Learning Approach
 
 <div align="center">
 
 ### 📚 Learn
 
-↓
+**↓**
 
 ### 🧪 Practice
 
-↓
+**↓**
 
 ### 💻 Build
 
-↓
+**↓**
 
 ### 📊 Analyze
 
-↓
+**↓**
 
-### 🤖 Explore AI
+### 🤖 Explore
 
-↓
+**↓**
 
 ### 🚀 Improve
 
 </div>
 
-I believe that **consistent practice and project-based learning** are key to developing strong technical and problem-solving skills.
+> **Learn continuously. Build practically. Improve consistently.**
 
 ---
 
 ## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SujalAnvekar&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalAnvekar&layout=compact&hide_border=true" height="170"/>
+
+</div>
 
 <br>
 
@@ -214,22 +269,29 @@ I believe that **consistent practice and project-based learning** are key to dev
 
 </div>
 
-
-
 ---
 
-## 🌱 Areas I'm Exploring
+## 🎯 Current Focus
 
 <div align="center">
 
-🐍 **Python**   •  
-🐼 **Pandas**   •  
-🔢 **NumPy**   •  
-🗄️ **SQL**   •  
-📊 **Power BI**   •  
-📈 **Data Science**   •  
-🤖 **Machine Learning**   •  
-🧠 **Artificial Intelligence**
+📊 **Data Analytics**
+
+  •  
+
+🗄️ **SQL**
+
+  •  
+
+📈 **Power BI**
+
+  •  
+
+🐍 **Python**
+
+  •  
+
+🤖 **AI/ML Exploration**
 
 </div>
 
@@ -240,11 +302,11 @@ I believe that **consistent practice and project-based learning** are key to dev
 <div align="center">
 
 <a href="https://github.com/SujalAnvekar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-SujalAnvekar-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sujal-anvekar-87206b318/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sujal%20Anvekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -255,6 +317,10 @@ I believe that **consistent practice and project-based learning** are key to dev
 
 <img src="https://komarev.com/ghpvc/?username=SujalAnvekar&style=for-the-badge" alt="Profile Views"/>
 
-### ⭐ Thanks for visiting my profile!
+<br><br>
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
+
+
