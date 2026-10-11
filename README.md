@@ -116,22 +116,24 @@ Currently exploring AI/ML concepts and learning how they can be applied to pract
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>📊 Customer Shopping Behavior Analysis</b></summary>
+  <summary><b>🤖 AI-Driven Customer Shopping Behavior Analysis</b></summary>
 
 <br>
 
-**Python • Pandas • SQL Server • Power BI**
+Python • Pandas • SQL Server • Power BI • Streamlit • Gemini AI
 
-An end-to-end data analytics project focused on understanding customer purchasing behavior.
+An end-to-end customer analytics project integrating AI to analyze shopping behavior and generate data-driven business insights from customer data.
 
-**What I worked on:**
+What I worked on:
 
-* 🧹 Cleaned and transformed data using **Python & Pandas**
-* 🗄️ Performed analysis using **SQL Server**
-* 👥 Analyzed customer purchasing patterns and segments
-* 📊 Analyzed categories, locations and subscriptions
-* 📈 Built an interactive **Power BI dashboard**
-* 💡 Extracted business-oriented insights
+🧹 Cleaned and transformed customer data using Python & Pandas
+🗄️ Queried and analyzed customer data using SQL Server
+🤖 Integrated Gemini AI to answer business questions using actual database results
+👥 Analyzed customer purchasing patterns and segments
+📊 Explored category performance, locations, and subscription behavior
+💬 Enabled natural-language queries for interactive customer data analysis
+📈 Built an interactive Power BI dashboard
+💡 Generated data-driven insights to support business decisions
 
 </details>
 
